@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Clinton
-- 👀 I’m interested in Minecraft Mods and Computer Science
+- 👀 I’m interested in Computer games and Cars
 - 🌱 I’m currently learning FIT3164 Computer science & Data science project 2
 - 💞️ I’m looking to collaborate on our Assignments
 - 📫 How to reach me csib0004@student.monash.edu
